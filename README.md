@@ -1,6 +1,6 @@
 # Line-equation-calculator
 This is a program in which you enter two points components as X and Y, then calculates it's line equation.
-You call the getPoints() method and the program runs in this way:
+First instantiate an object from Method class to be able to use the methods, then call the getPoints() method and the program runs in this way:
 
     Enter the x and y components of the first point: 
 	   2 3
